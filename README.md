@@ -1,22 +1,22 @@
-# [flexiblegs-scss](http://flexible.gs)
+# [flexiblegs-postcss](http://flexible.gs)
 
-Flexible Grid System Scss
+Flexible Grid System PostCSS
 
 ## Install
 
-### [Download](https://raw.githubusercontent.com/flexiblegs/flexiblegs-scss/master/flexiblegs-scss.scss)
-```scss
-@import "flexiblegs-scss";
+### [Download](https://raw.githubusercontent.com/eserozvataf/flexiblegs-postcss/master/flexiblegs-postcss.css)
+```css
+@import "flexiblegs-postcss";
 ```
 
-### [npm](https://www.npmjs.com/package/flexiblegs-scss)
+### [npm](https://www.npmjs.com/package/flexiblegs-postcss)
 ```
-$ npm install --save flexiblegs-scss
+$ npm install --save flexiblegs-postcss
 ```
 
-### [bower](http://bower.io/search/?q=flexiblegs-scss)
+### [bower](http://bower.io/search/?q=flexiblegs-postcss)
 ```
-$ bower install --save flexiblegs-scss
+$ bower install --save flexiblegs-postcss
 ```
 
 ## License

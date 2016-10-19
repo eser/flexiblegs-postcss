@@ -1,12 +1,12 @@
 {
-  "name": "flexiblegs-scss",
+  "name": "flexiblegs-postcss",
   "version": "5.5.3",
   "homepage": "http://flexible.gs",
-  "description": "Flexible Grid System Scss",
+  "description": "Flexible Grid System PostCSS",
   "keywords": [
     "css",
-    "sass",
-    "scss",
+    "postcss",
+    "cssnext",
     "grid",
     "responsive",
     "framework",
@@ -14,11 +14,11 @@
     "flexbox",
     "flex"
   ],
-  "main": "flexiblegs-scss.scss",
+  "main": "flexiblegs-postcss.css",
   "author": "@dnomak",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/flexiblegs/flexiblegs-scss.git"
+    "url": "git+https://github.com/eserozvataf/flexiblegs-postcss.git"
   }
 }
